@@ -4,7 +4,7 @@ This diagram illustrates the end-to-end Microsoft Fabric architecture used for t
 
 ## Architecture Overview
 
-![Enterprise Solution Architecture](./enterprise_solution_architecture.png)
+![Enterprise Solution Architecture](./enterprise-solution-architecture.png)
 
 ## Overview
 
